@@ -1,0 +1,42 @@
+﻿@model ProyectoG.ViewModel.JugadoresSalonesView
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Salones.FechaCreacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salones.FechaCreacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salones.IdAcceso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salones.IdAcceso)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("# de Jugadores")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CantJugadores)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Salones.Id }) |
+    @Html.ActionLink("Regresar a la lista", "Index")
+</p>

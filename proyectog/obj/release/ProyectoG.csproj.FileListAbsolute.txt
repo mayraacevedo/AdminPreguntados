@@ -1,0 +1,333 @@
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\ApplicationInsights.config
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\csc.exe
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\vbc.exe
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\ProyectoG.dll.config
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\ProyectoG.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\ProyectoG.pdb
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Antlr3.Runtime.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\EntityFramework.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Newtonsoft.Json.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Owin.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Helpers.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Http.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Mvc.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Optimization.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Razor.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\WebGrease.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Helpers.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Mvc.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Optimization.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Razor.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Antlr3.Runtime.pdb
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Newtonsoft.Json.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Http.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\EntityFramework.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Http.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\EntityFramework.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\obj\Release\ProyectoG.Migrations.Initial1.resources
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\obj\Release\ProyectoG.csproj.GenerateResource.Cache
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\obj\Release\ProyectoG.dll
+C:\Users\Mayra Acevedo\Desktop\ProyectoG\ProyectoG\obj\Release\ProyectoG.pdb
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\ApplicationInsights.config
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\csc.exe
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\vbc.exe
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\ProyectoG.dll.config
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\ProyectoG.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\ProyectoG.pdb
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Antlr3.Runtime.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\EntityFramework.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Newtonsoft.Json.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Owin.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Helpers.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Http.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Mvc.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Optimization.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Razor.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\WebGrease.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Helpers.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Mvc.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Optimization.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Razor.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Antlr3.Runtime.pdb
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Newtonsoft.Json.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Http.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\EntityFramework.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Razor.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Http.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\EntityFramework.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\obj\Release\ProyectoG.Migrations.Initial1.resources
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\obj\Release\ProyectoG.csproj.GenerateResource.Cache
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\obj\Release\ProyectoG.dll
+C:\Users\ESOTO\Desktop\ProyectoG\ProyectoG\ProyectoG\obj\Release\ProyectoG.pdb
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\ApplicationInsights.config
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\csc.exe
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\vbc.exe
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\ProyectoG.dll.config
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\ProyectoG.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\ProyectoG.pdb
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Antlr3.Runtime.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\EntityFramework.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Newtonsoft.Json.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Owin.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Helpers.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Http.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Mvc.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Optimization.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Razor.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\WebGrease.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.Web.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Helpers.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Mvc.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Optimization.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Razor.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.WebPages.Razor.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Antlr3.Runtime.pdb
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Newtonsoft.Json.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Net.Http.Formatting.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Http.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\System.Web.Http.WebHost.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\EntityFramework.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\EntityFramework.SqlServer.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Razor.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Http.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\EntityFramework.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\obj\Release\ProyectoG.Migrations.Initial1.resources
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\obj\Release\ProyectoG.csproj.GenerateResource.Cache
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\obj\Release\ProyectoG.dll
+C:\Users\ESOTO\Desktop\May\ProyectoG v2.0\ProyectoG\ProyectoG\obj\Release\ProyectoG.pdb

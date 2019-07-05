@@ -1,0 +1,116 @@
+﻿@model ProyectoG.ViewModel.PreguntasRespuestasView
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Crear pregunta</h2>
+<h3>@ViewBag.Error</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Categoria", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Id_Categoria", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Preguntas.Id_Categoria, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Nivel", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Id_Nivel", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Preguntas.Id_Nivel, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Preguntas.Pregunta, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Preguntas.Pregunta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Preguntas.Pregunta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Preguntas.Link, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Preguntas.Link, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Preguntas.Link, "", new { @class = "text-danger" })
+               
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Preguntas.Privada, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Preguntas.Privada, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Preguntas.Privada, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Respuesta1.Respuesta)
+                </th>
+
+                <th>
+                    @Html.DisplayName("Respuesta Correcta")
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta1.Respuesta, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Respuesta1.Respuesta, "", new { @class = "text-danger" })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta1.Respuesta_Correcta, new { htmlAttributes = new { @class = "form-control" } })
+                </td>
+
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta2.Respuesta, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Respuesta2.Respuesta, "", new { @class = "text-danger" })
+
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta2.Respuesta_Correcta, new { htmlAttributes = new { @class = "form-control" } })
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta3.Respuesta, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Respuesta3.Respuesta, "", new { @class = "text-danger" })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Respuesta3.Respuesta_Correcta, new { htmlAttributes = new { @class = "form-control" } })
+                </td>
+
+            </tr>
+
+
+        </table>
+
+    </div>
+    <div>
+        <input type="submit" value="Crear" id="Create" class="btn btn-default" />
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Regresar a la Lista", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

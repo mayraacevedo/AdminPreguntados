@@ -1,0 +1,34 @@
+﻿@model ProyectoG.Models.tbl_Amigos
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tbl_Amigos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdJugadorPrincipal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdJugadorPrincipal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdJugadorAmigo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdJugadorAmigo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

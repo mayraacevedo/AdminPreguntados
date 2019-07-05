@@ -1,0 +1,41 @@
+﻿@model ProyectoG.Models.tbl_Niveles
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles nivel</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nivel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nivel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximoPuntaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximoPuntaje)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PuntosPregunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PuntosPregunta)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id_Nivel }) |
+    @Html.ActionLink("Regresar a la lista", "Index")
+</p>

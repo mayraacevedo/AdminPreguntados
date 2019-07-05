@@ -1,0 +1,146 @@
+﻿@model ProyectoG.ViewModel.InformesViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Informes</h2>
+<h3>@ViewBag.Error</h3>
+
+@using (Html.BeginForm("Index", "Informes", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+{
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.Label("Tipo Informe", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                <select id="TipoInforme" name="TipoInforme" class="form-control">
+                    <option value="0">Tipo Informe</option>
+                    <option value="1">Promedio del tiempo de respuesta por pregunta</option>
+                    <option value="2">Cant. respuestas correctas-incorrectas por pregunta</option>
+                    <option value="3">Desempeño jugadores por salón</option>
+                </select>
+            </div>
+       
+                @Html.Label("Salón", htmlAttributes: new { @class = "control-label col-md-1" })
+                <div class="col-md-2">
+                    @Html.DropDownList("IdSalon", null, htmlAttributes: new { @class = "form-control" })
+                  
+                </div>
+            <div class="col-md-1">
+                <input type="submit" value="Consultar" id="Index" class="btn btn-success" />
+
+            </div>
+            </div>
+        </div>
+        if(Model.Tipo_Informe == "1")
+        {
+                    <table class="table">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Informe.Pregunta)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Informe.Tiempo_Promedio)
+                            </th>
+              
+                            <th></th>
+                        </tr>
+
+                        @foreach (var item in Model.Informes)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Pregunta)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Tiempo_Promedio)
+                                </td>
+                   
+                            </tr>
+                        }
+
+                    </table>
+        }
+        else if (Model.Tipo_Informe == "2")
+        {
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Pregunta)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Correctas)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Incorrectas)
+                    </th>
+
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model.Informes)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Pregunta)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Correctas)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Incorrectas)
+                        </td>
+
+                    </tr>
+                }
+
+            </table>
+    }
+    else if (Model.Tipo_Informe == "3")
+    {
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Jugador)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Correctas)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Incorrectas)
+                    </th>
+                  
+                    <th>
+                        @Html.DisplayNameFor(model => model.Informe.Fecha_Calificacion)
+                    </th>
+
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model.Informes)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Jugador)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Correctas)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Incorrectas)
+                        </td>
+                        
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Fecha_Calificacion)
+                        </td>
+
+                    </tr>
+                }
+
+            </table>
+        }
+
+}
+
+

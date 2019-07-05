@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ProyectoG.Models.tbl_Preguntas>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Preguntas</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+@using (Html.BeginForm("Index", "Preguntas", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+{
+<div class="form-horizontal">
+
+    <div class="form-group">
+        @Html.Label("Ordenar por:", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-2">
+            <select class="form-control" id="Orden" name="Orden">
+                <option value="0" selected="selected">Seleccione</option>
+                <option value="Nivel">Nivel</option>
+                <option value="Categoria">Categoria</option>
+            </select>
+          
+            </div>
+        <input type="submit" value="Ordenar" id="Index" class="btn btn-default" />
+    </div>
+    
+</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tbl_Categorias.Categoria)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tbl_Niveles.Nivel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pregunta)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_Categorias.Categoria)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tbl_Niveles.Nivel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pregunta)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+}

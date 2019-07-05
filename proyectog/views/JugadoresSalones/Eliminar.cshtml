@@ -1,0 +1,38 @@
+﻿@model ProyectoG.Models.tbl_Jugadores
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h3>Está seguro de eliminarlo de la lista?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellidos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellidos)
+        </dd>
+    </dl>
+    <hr />
+</div>
+<div>
+    @using (Html.BeginForm("Eliminar", "JugadoresSalones", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" id="Eliminar" class="btn btn-default" /> |
+           
+        </div>
+    }
+</div>
+

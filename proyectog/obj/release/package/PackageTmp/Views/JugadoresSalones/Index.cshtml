@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProyectoG.Models.tbl_Salones>
+@{
+    ViewBag.Title = "Index";
+}
+<p>
+    @*@Html.ActionLink("Asociar jugadores a salon", "Agregar")*@
+</p>
+@using (Html.BeginForm("Index", "JugadoresSalones", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAdministrador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaCreacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAcceso)
+            </th>
+            
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdAdministrador)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaCreacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdAcceso)
+                </td>
+                
+                <td>
+                    @Html.ActionLink("Editar", "EditarSalon", new { id = item.Id }) 
+                </td>
+            </tr>
+        }
+
+    </table>
+}

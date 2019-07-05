@@ -1,0 +1,31 @@
+﻿@model ProyectoG.Models.tbl_Categorias
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Eliminar categoria</h2>
+
+<h3>Está seguro de eliminarla?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="eliminar" id="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar a la lista", "Index")
+        </div>
+    }
+</div>

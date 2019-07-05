@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - LOGIC GAME</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top ">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("LOGIC GAME", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            @if (Request.Cookies["RolCookie"] != null)
+            {
+                if (Request.Cookies["RolCookie"].Value != "2")
+                {
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Niveles", "Index", "Niveles")</li>
+                    <li>@Html.ActionLink("Categorias", "Index", "Categorias")</li>
+                    <li>@Html.ActionLink("Preguntas", "Index", "Preguntas")</li>
+                    <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            Salones
+            <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Salones", "Index", "Salones")</li>
+                    <li>@Html.ActionLink("agregar preguntas", "Index", "PreguntasSalones")</li>
+                    <li>@Html.ActionLink("agregar Jugadores", "Index", "JugadoresSalones")</li>
+                    </ul>
+        </li>
+                    <li>@Html.ActionLink("Jugadores", "Index", "Jugadores")</li>
+                    <li>@Html.ActionLink("Informes", "Index", "Informes")</li>
+                </ul>
+                @Html.Partial("_LoginPartial2")
+            </div>
+                }
+                else
+                {
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Niveles", "Index", "Niveles")</li>
+                        <li>@Html.ActionLink("Categorias", "Index", "Categorias")</li>
+                        <li>@Html.ActionLink("Preguntas", "Index", "Preguntas")</li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                Salones
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Salones", "Index", "Salones")</li>
+                                <li>@Html.ActionLink("agregar preguntas", "Index", "PreguntasSalones")</li>
+                                <li>@Html.ActionLink("agregar Jugadores", "Index", "JugadoresSalones")</li>
+                            </ul>
+                        </li>
+                        <li>@Html.ActionLink("Jugadores", "Index", "Jugadores")</li>
+                        <li>@Html.ActionLink("Docentes", "Index", "Administradores")</li>
+                        <li>@Html.ActionLink("Informes", "Index", "Informes")</li>
+                    </ul>
+                    @Html.Partial("_LoginPartial2")
+                </div>
+                }
+            }
+            else
+            {
+                @Html.Partial("_LoginPartial")
+            }
+
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - LOGIC GAME</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

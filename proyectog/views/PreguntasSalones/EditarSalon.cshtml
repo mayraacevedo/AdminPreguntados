@@ -1,0 +1,42 @@
+﻿@model ProyectoG.ViewModel.PreguntasSalonesView
+@{
+    ViewBag.Title = "Agregar";
+}
+
+
+<h2>Agregar preguntas a salones</h2>
+<h3>@ViewBag.Error</h3>
+@Html.HiddenFor(model => model.Salones.Id)
+@using (Html.BeginForm("EditarSalon", "PreguntasSalones", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    @Html.ActionLink("Agregar Pregunta", "AgregarPregunta", new { }, new { @class = "btn btn-success" })
+    <input type="submit" value="Finalizar" id="EditarSalon" class="btn btn-success" />
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => Model.Pregunta.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => Model.Pregunta.Pregunta)
+            </th>
+        </tr>
+        @for (int i = 0; i < Model.Preguntas.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.Preguntas[i].Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.Preguntas[i].Pregunta)
+                </td>
+                <td>
+                    @Html.ActionLink("Eliminar", "EliminarEdit", new { id = Model.Preguntas[i].Id })
+                </td>
+            </tr>
+        }
+    </table>
+}

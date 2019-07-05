@@ -1,0 +1,54 @@
+﻿@model ProyectoG.ViewModel.JugadoresSalonesView
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<h2>Agregar jugadores a salones</h2>
+<h3>@ViewBag.Error</h3>
+
+@using (Html.BeginForm("Agregar", "JugadoresSalones", FormMethod.Post, new { @id = "frmEjecucion", @name = "frmEjecucion", @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Salones.Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IdSalon", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Salones.Id, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    @Html.ActionLink("Agregar Jugador", "AgregarJugador", new { }, new { @class = "btn btn-success" })
+    <input type="submit" value="Finalizar" id="Agregar" class="btn btn-success" />
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => Model.Jugador.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => Model.Jugador.Nombres)
+            </th>
+            
+        </tr>
+        @for (int i = 0; i < Model.Jugadores.Count; i++)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Jugadores[i].Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Jugadores[i].FullName)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Eliminar", "Eliminar", new { id = Model.Jugadores[i].Id })
+            </td>
+        </tr>
+        }
+    </table>
+}
+
+

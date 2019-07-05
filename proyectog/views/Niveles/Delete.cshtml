@@ -1,0 +1,47 @@
+﻿@model ProyectoG.Models.tbl_Niveles
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Eliminar nivel</h2>
+
+<h3>Está seguro que desea eliminarlo?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nivel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nivel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaximoPuntaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaximoPuntaje)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PuntosPregunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PuntosPregunta)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" id="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar a la lista", "Index")
+        </div>
+    }
+</div>

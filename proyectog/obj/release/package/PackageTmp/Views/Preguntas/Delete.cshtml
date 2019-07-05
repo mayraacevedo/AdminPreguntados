@@ -1,0 +1,88 @@
+﻿@model ProyectoG.ViewModel.PreguntasRespuestasView
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Eliminar pregunta</h2>
+
+<h3>Está seguro de eliminarla?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Preguntas.tbl_Categorias.Categoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preguntas.tbl_Categorias.Categoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Preguntas.tbl_Niveles.Nivel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preguntas.tbl_Niveles.Nivel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Preguntas.Pregunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preguntas.Pregunta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Preguntas.Link)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preguntas.Link)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Preguntas.Pregunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preguntas.Privada)
+        </dd>
+
+    </dl>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>
+                Respuesta
+            </th>
+            <th>
+                Respuesta Correcta
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Respuestas)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Respuesta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Respuesta_Correcta)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" id="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar a la lista", "Index")
+        </div>
+    }
+</div>

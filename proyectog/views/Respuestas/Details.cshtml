@@ -1,0 +1,42 @@
+﻿@model ProyectoG.Models.tbl_Respuestas
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tbl_Respuestas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Preguntas.Pregunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Preguntas.Pregunta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Respuesta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Respuesta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Respuesta_Correcta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Respuesta_Correcta)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
